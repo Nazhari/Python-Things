@@ -3,7 +3,7 @@
 <head>
 	<title>Behold! A Website!</title>
 </head>
-<body>
+<body style="background-color: powderblue">
 	<h1>The Meme Bank</h1>
 	<img src="yes.jpg" width="640" height="460">
 	<h3>With so many memes on the internet, you need some place to store them.</h3>
