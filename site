@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Behold! A Website!</title>
+</head>
+<body>
+	<h1>Your Daily Dosage Of Memes</h1>
+	<img src="yes.jpg" width="640" height="460">
+	<h3>cause no one can get enough</h3>
+	<p>no names cause it's better if they're surprises</p>
+	<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"> Meme 1</a>
+	<br>
+	<a href="https://www.youtube.com/watch?v=L_jWHffIx5E"> Meme 2</a>
+	<br>
+	<a href="https://www.youtube.com/watch?v=y6120QOlsfU"> Meme 3</a>
+	<br>
+	<a href="https://www.youtube.com/watch?v=t5Ek3wlasjo"> Meme 4</a>
+	<br>
+	<a href="https://9gag.com/"> For more memes, click me</a>
+	<p style="color: red">then again you cheeky buggers are gonna hover your mouse over the links to view them so i'll put in something you don't have to click</p>
+	<img src="roll_safe.jpg">
+
+</body>
+</html>
