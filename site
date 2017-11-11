@@ -4,20 +4,19 @@
 	<title>Behold! A Website!</title>
 </head>
 <body>
-	<h1>Your Daily Dosage Of Memes</h1>
+	<h1>The Meme Bank</h1>
 	<img src="yes.jpg" width="640" height="460">
-	<h3>cause no one can get enough</h3>
-	<p>no names cause it's better if they're surprises</p>
-	<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"> Meme 1</a>
+	<h3>With so many memes on the internet, you need some place to store them.</h3>
+	<p>Videos:</p>
+	<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"> Rickroll</a>
 	<br>
-	<a href="https://www.youtube.com/watch?v=L_jWHffIx5E"> Meme 2</a>
+	<a href="https://www.youtube.com/watch?v=L_jWHffIx5E"> All-Star</a>
 	<br>
-	<a href="https://www.youtube.com/watch?v=y6120QOlsfU"> Meme 3</a>
+	<a href="https://www.youtube.com/watch?v=y6120QOlsfU"> Darude - Sandstorm</a>
 	<br>
-	<a href="https://www.youtube.com/watch?v=t5Ek3wlasjo"> Meme 4</a>
+	<a href="https://www.youtube.com/watch?v=t5Ek3wlasjo"> John Cena's Theme</a>
 	<br>
-	<a href="https://9gag.com/"> For more memes, click me</a>
-	<p style="color: red">then again you cheeky buggers are gonna hover your mouse over the links to view them so i'll put in something you don't have to click</p>
+	<p style="color: red">Here's something I made myself</p>
 	<img src="roll_safe.jpg">
 
 </body>
